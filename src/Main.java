@@ -1,3 +1,6 @@
+// git remote add origin https://github.com/devonbermond/FinalProject.git
+// git branch -M main
+// git push -u origin main
 import javax.swing.*;
 
 public class Main {
